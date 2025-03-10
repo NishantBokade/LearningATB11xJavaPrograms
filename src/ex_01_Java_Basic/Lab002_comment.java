@@ -1,7 +1,7 @@
 package ex_01_Java_Basic;
 
-public class NishantJi {
+public class Lab002_comment {
     public static void main(String[] args) {
-        System.out.println("Hello dude");
+        System.out.println("coment new");
     }
 }
